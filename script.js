@@ -3,7 +3,7 @@ function openVibeCraft() {
 }
 
     // Hamburger menu toggle
-  const toggleBtn = document.getElementById("menu-toggle");
+const toggleBtn = document.getElementById("checkbox");
   const navLinks = document.getElementById("nav-links");
 
   toggleBtn.addEventListener("click", () => {
